@@ -24,3 +24,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Dos-DDos Detector](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Ai%20For%20Cyber%20Security/Dos-DDos%20Detector): Dos-DDos Detector using ensemble Deep learning models achived 0.9991 F1 score.
 
 - [Adaptive Intrusion Detector](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Ai%20For%20Cyber%20Security/Adaptive%20Intrusion%20Detector): Train adaptive model using fixed sliding window technique on data retrieved from Kafka server.
+
+## Computer Vision
+
+- [Tennis object detection](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/Tennis%20object%20detection): Train Yolov4 model to detect Tennis player, racket and ball. 
