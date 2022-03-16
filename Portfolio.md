@@ -28,3 +28,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Computer Vision
 
 - [Tennis object detection](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/Tennis%20object%20detection): Train Yolov4 model to detect Tennis player, racket and ball. 
+
+## NLP 
+- [Text Classification](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Text%20Classification): Classify between 5 books with the same Genre and different outhers.
+
+- [Text Clustering](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Text%20Clustering): produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
