@@ -27,7 +27,14 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Computer Vision
 
+- [Handwritten Digit Recognition](https://github.com/Eng-Abdelrahman-M/Handwritten-Digit-Recognition): Tain a CNN model on MNIST dataset.
+
 - [Tennis object detection](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/Tennis%20object%20detection): Train Yolov4 model to detect Tennis player, racket and ball. 
+
+- __People Counter__ : Count people inside some given ROIs.
+  - [Python](https://github.com/Eng-Abdelrahman-M/People-Counter)
+  - [C++](https://github.com/Eng-Abdelrahman-M/People-Counter-Cpp)
+
 
 ## NLP 
 - [Text Classification](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Text%20Classification): Classify between 5 books with the same Genre and different outhers.
