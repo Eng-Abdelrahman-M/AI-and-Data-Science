@@ -15,4 +15,12 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - [Decision Tree, Bagging and Boosting](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Decision%20Tree%20%2B%20Bagging%20%2B%20Boosting): Train Decision tree, bagging and boosting on dumy data and plot decision boundaries. 
 
-- [Comparing Different Algorithms](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Comparing%20Different%20Algorithms): Train Decision Tree, SVM and Gradiant Boost. Apply feature selection, finetuing and compare the models with stacking algorithm.  
+- [Comparing Different Algorithms](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Comparing%20Different%20Algorithms): Train Decision Tree, SVM and Gradiant Boost. Apply feature selection, finetuing and compare the models with stacking algorithm. 
+
+## Artificial intelligence for Cybersecurity Applications
+
+- [Intrusion Detector NSL-KDD](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Ai%20For%20Cyber%20Security/Intrusion%20Detector%20NSL-KDD): Applying different preprocessing techniques to improve classifier performance. achieved F1 score: 0.96187 by Decision tree classifier.
+
+- [Dos-DDos Detector](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Ai%20For%20Cyber%20Security/Dos-DDos%20Detector): Dos-DDos Detector using ensemble Deep learning models achived 0.9991 F1 score.
+
+- [Adaptive Intrusion Detector](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Ai%20For%20Cyber%20Security/Adaptive%20Intrusion%20Detector): Train adaptive model using fixed sliding window technique on data retrieved from Kafka server.
