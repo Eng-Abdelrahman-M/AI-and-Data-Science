@@ -1,5 +1,5 @@
 ## Project overview
-produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
+Produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
 
 ## Dataset
 - https://www.gutenberg.org/ebooks/1534  
