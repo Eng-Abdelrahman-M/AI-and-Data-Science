@@ -40,3 +40,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Text Classification](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Text%20Classification): Classify between 5 books with the same Genre and different outhers.
 
 - [Text Clustering](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Text%20Clustering): produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
+
+## Blog
+
+- [Handwritten Digit Recognition (MNIST) Using PyTorch](https://blog.machinfy.com/handwritten-digit-recognition-mnist-using-pytorch/)
