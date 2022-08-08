@@ -21,3 +21,5 @@ OvR involves training a binary class classifier for each class. During testing p
 - Using Argmax to aggregate confidence scores and obtain the final label and obtain the performance (i.e., confusion matrix, accuracy, plotting correct and wrong prediction points) of the 3 OvR-SVM models to get one OvR-SVM result.
 
 **Visualize predictoions**
+
+![alt text](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/blob/main/Machine%20learning/Multiclass%20Classification/Visualization.png)
